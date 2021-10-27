@@ -32,3 +32,4 @@ public class Test1 {
 		System.out.println(basicCalculator(Operation.MULTIPLY, -12, -1));
 	}
 }
+
